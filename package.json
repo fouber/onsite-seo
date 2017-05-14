@@ -14,7 +14,7 @@
   "dependencies": {
     "q": "~1.0.0",
     "phantomjs": "~1.9.7-1",
-    "browserify": "~3.24.11",
+    "browserify": "~3.46.1",
     "url": "~0.7.9"
   },
   "license": "MIT",
